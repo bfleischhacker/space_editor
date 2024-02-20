@@ -47,7 +47,7 @@ The following explains how to integrate `space_editor` as a game plugin to use t
 
 Add this line to your Cargo.toml file
 ```toml
-space_editor = "0.3.1"
+space_editor = "0.4.0"
 ```
 
 ### Prefab spawn system
